@@ -57,8 +57,8 @@ while True:
               salary = int(input('Enter Employee`s Salary: '))
         
               employee = Employee(emp_id, name, age, salary)
-              print(f"")
-          case 2:pass
+              print(f"Employee Name {name} Created Sucessfully...")
+          case 2:
           case 3:pass
           case 4:pass
           case 5:break
